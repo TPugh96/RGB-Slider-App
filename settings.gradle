@@ -1,0 +1,2 @@
+rootProject.name = "RGB Slider Thomas Pugh"
+include ':app'
